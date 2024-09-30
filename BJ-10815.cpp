@@ -24,8 +24,6 @@ int main(){
         if(S.find(k)==S.end()) cout << "0 ";
         else cout << "1 ";
     }
-
-    return 0;
 }
     
 
