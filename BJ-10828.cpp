@@ -42,6 +42,5 @@ int main(){
                 cout << v.back() << "\n";
         }
     }
-    
     return 0;
 }
